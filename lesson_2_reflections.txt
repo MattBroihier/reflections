@@ -1,3 +1,5 @@
 first line of file
 What happens when you initialize a repository? Why do you need to do it?
 	it sets up a directory as a repository
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	It's like a place holder for things that will soon be committed.
